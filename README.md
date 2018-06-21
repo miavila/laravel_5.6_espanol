@@ -1,6 +1,8 @@
-# laravel_5.6_espanol
-Laravel 5.6 em español
+
+#Laravel 5.6 em español
+
 Traducción de los archivos /resource/lang/es/ al idioma español:
+
 auth.php
 pagination.php
 passwords.php
